@@ -1,0 +1,21 @@
+Image-Classification
+========================
+このプロジェクトは、UdacityのDeep Learning Nanodegreeで出された課題の１つです。
+CIFAR-10 datasetを使った画像分類を行います。
+
+作成したネットワークは
+1. Convolutional層
+2. ReLu
+3. Max Pooling層
+4. Dropout層
+5. Flatten層
+6. Full Connect層
+
+からなります。
+
+オリジナルのgit reposictoryはhttps://github.com/udacity/deep-learningになります。
+
+関連情報
+--------
+###
+1. https://www.udacity.com, "Udacity"
